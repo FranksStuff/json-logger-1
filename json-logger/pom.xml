@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>ORG_ID_TOKEN</groupId>
+    <groupId>CG</groupId>
     <artifactId>json-logger</artifactId>
     <version>1.0.2</version>
     <packaging>mule-extension</packaging>
